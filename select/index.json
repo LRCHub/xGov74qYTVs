@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドレミソラシド",
+  "base_artist": "Hinatazaka46",
+  "createdAt": "2026-04-03T13:50:01.836871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドレミソラシド",
+      "artist": "Hinatazaka46",
+      "has_synced": true,
+      "path": "select/01_ドレミソラシド_Hinatazaka46.lrc"
+    }
+  ]
+}
